@@ -534,10 +534,6 @@
     "modified": "2019-03-18T21:38:41.974Z",
     "contributors": ["skapesec", "kayablue"]
   },
-  "Glossary/Empty_element": {
-    "modified": "2020-06-17T07:35:47.736Z",
-    "contributors": ["fuggy", "Sheppy", "Aleksej"]
-  },
   "Glossary/Encapsulation": {
     "modified": "2019-10-15T17:04:32.904Z",
     "contributors": ["duckDominatrix"]
@@ -1022,6 +1018,10 @@
   "Glossary/Viewport": {
     "modified": "2019-09-13T09:25:23.206Z",
     "contributors": ["deex_iv", "ozil07"]
+  },
+  "Glossary/Void_element": {
+    "modified": "2020-06-17T07:35:47.736Z",
+    "contributors": ["fuggy", "Sheppy", "Aleksej"]
   },
   "Glossary/W3C": {
     "modified": "2019-03-23T22:19:42.916Z",
@@ -10172,10 +10172,6 @@
       "Lambrusco.pro"
     ]
   },
-  "Web/Guide/HTML/Editable_content": {
-    "modified": "2019-03-18T21:32:40.829Z",
-    "contributors": ["warsan"]
-  },
   "Web/Guide/Parsing_and_serializing_XML": {
     "modified": "2020-10-11T12:29:17.772Z",
     "contributors": ["Akhat", "bogpok"]
@@ -16900,6 +16896,10 @@
   "conflicting/Web/HTML/Element/input/datetime-local": {
     "modified": "2019-07-06T19:59:07.845Z",
     "contributors": ["fuggy", "Brom95", "bad4iz"]
+  },
+  "conflicting/Web/HTML/Global_attributes/contenteditable": {
+    "modified": "2019-03-18T21:32:40.829Z",
+    "contributors": ["warsan"]
   },
   "conflicting/Web/HTTP/CORS": {
     "modified": "2019-07-16T07:11:05.759Z",
